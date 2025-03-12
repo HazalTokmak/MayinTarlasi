@@ -58,7 +58,7 @@
             Controls.Add(grpMayinlar);
             Controls.Add(btnYeniOyun);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Mayın Tarlası";
             ResumeLayout(false);
         }
 
